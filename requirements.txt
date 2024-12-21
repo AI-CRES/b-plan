@@ -12,3 +12,5 @@ langchain
 langchain-community
 langchain_experimental
 python-docx==0.8.11
+weasyprint==53.3
+markdown2==2.4.7
